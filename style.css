@@ -61,21 +61,22 @@ h1 {
 .research1{
     margin: 0 10%;
     padding: 5% 0;
+    background-image: url(img/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 30%;
 }
 .research1 img{
     width: 100%;
     position: left;
-    background: url(img/shapes/shape-1.png);
-    background: no-repeat;
+    
+
         
 }
 
 .research2{
     margin: 0 10%;
     padding: 5% 0;
-    background: url(img/shapes/shape-1.png);
-    background: no-repeat;
-    background-position: right;
+    
 }
 .research2 img{
     width: 100%;
