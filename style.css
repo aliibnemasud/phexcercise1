@@ -1,0 +1,74 @@
+h1 {
+    font-size: 50px;
+}
+ p{
+    font-family: 'Poppins', sans-serif;
+ }
+.flexible-container {
+    display: flex;    
+}
+
+.banner{
+    
+}
+
+.banner img {
+    width: 70%;  
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 10%;
+}
+.line {
+    border-left: 5px solid coral;
+    height: 112px;
+}
+
+.cta-btn {
+    padding: 10px 40px;
+    background-color: coral;
+    color: white;
+    text-decoration: none;
+    font-family: 'Poppins';
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.banner1st{
+    margin-top: 5%;
+}
+
+.mission img {
+    width: 50%;
+}
+.box {
+    background-color: #EDF5F6;
+    border-radius: 20px;
+    margin: 0 30px;
+    padding: 2%;
+}
+
+.mission {
+    margin: 0 10%;
+}
+
+.mission h1 {
+    text-align: center;
+}
+
+.research{
+    margin: 0 10%;
+    padding: 5% 0;
+}
+.research img{
+    width: 100%;
+    position: left;
+    
+}
+
+
+
+
+
